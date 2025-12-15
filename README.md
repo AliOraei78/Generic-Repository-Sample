@@ -22,3 +22,5 @@ In this stage, we implemented **separate repositories** for Employee and Product
 - `GenericRepository<T, TKey>` stores entities in-memory and works with **any Entity type**.
 - Eliminates code repetition and enforces **type-safety** for all entities.
 - Ready for adding new entities without writing additional repository classes.
+
+Built with .NET 10 – December 2025
