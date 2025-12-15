@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GenericRepositorySample.Domain\GenericRepositorySample.Domain.csproj" />
+    <ProjectReference Include="..\GenericRepositorySample.Infrastructure\GenericRepositorySample.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

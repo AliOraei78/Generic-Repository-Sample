@@ -1,4 +1,4 @@
 ﻿public interface IEntity<TKey>
 {
-    Guid Id { get; set; }
+    TKey Id { get; set; }
 }

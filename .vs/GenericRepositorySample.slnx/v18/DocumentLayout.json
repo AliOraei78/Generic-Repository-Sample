@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{D59B7DC6-1B73-42CD-BA49-8C5B2FC67AD3}|Solution Items{D59B7DC6-1B73-42CD-BA49-8C5B2FC67AD3}|C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{D59B7DC6-1B73-42CD-BA49-8C5B2FC67AD3}|Solution Items{D59B7DC6-1B73-42CD-BA49-8C5B2FC67AD3}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,19 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-12-15T14:06:33.475Z",
-              "EditorCaption": ""
             }
           ]
         }

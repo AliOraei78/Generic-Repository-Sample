@@ -12,3 +12,10 @@ C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySampl
 C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.pdb
 C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\ref\GenericRepositorySample.App.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.Domain.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.Domain.pdb
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.sourcelink.json
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericR.5A1409D9.Up2Date
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.Infrastructure.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.Infrastructure.pdb
