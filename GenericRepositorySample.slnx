@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="GenericRepositorySample.App/GenericRepositorySample.App.csproj" />
+  <Project Path="GenericRepositorySample.Domain/GenericRepositorySample.Domain.csproj" />
+  <Project Path="GenericRepositorySample.Infrastructure/GenericRepositorySample.Infrastructure.csproj" />
+</Solution>

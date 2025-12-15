@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.App.exe
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.App.deps.json
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.App.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.App.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\bin\Debug\net10.0\GenericRepositorySample.App.pdb
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\refint\GenericRepositorySample.App.dll
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.pdb
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\GenericRepositorySample.App.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\C# projects\GenericRepositorySample\GenericRepositorySample.App\obj\Debug\net10.0\ref\GenericRepositorySample.App.dll
