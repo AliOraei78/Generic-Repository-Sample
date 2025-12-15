@@ -42,5 +42,21 @@ public class Program
             System.Console.WriteLine($"Product id: {product.Id} and the name= {product.Name}");
             System.Console.WriteLine("----------");
         }
-    }
+
+        IReadOnlyRepository<Employee> readEmployeeRepo = employeeRep;
+        IWriteRepository<Employee> writeEmployeeRepo = employeeRep;
+
+        writeEmployeeRepo.Add(new Employee()
+        {
+            Id = Guid.NewGuid(),
+            Name = "3rd.Employee"
+        });
+
+        var allEmployees = readEmployeeRepo.GetAll();
+        foreach (var employee in allEmployees)
+        {
+            System.Console.WriteLine($"Employee id: {employee.Id} and the name= {employee.Name}");
+            System.Console.WriteLine("----------");
+        }
+    } 
 }

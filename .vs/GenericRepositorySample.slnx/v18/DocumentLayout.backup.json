@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF39A5B7-A3E1-E9E7-A85C-101FF679F0C4}|GenericRepositorySample.App\\GenericRepositorySample.App.csproj|c:\\users\\asus\\desktop\\c# projects\\genericrepositorysample\\genericrepositorysample.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF39A5B7-A3E1-E9E7-A85C-101FF679F0C4}|GenericRepositorySample.App\\GenericRepositorySample.App.csproj|solutionrelative:genericrepositorysample.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\GenericRepositorySample.App\\Program.cs",
+              "RelativeDocumentMoniker": "GenericRepositorySample.App\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\C# projects\\GenericRepositorySample\\GenericRepositorySample.App\\Program.cs",
+              "RelativeToolTip": "GenericRepositorySample.App\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwC4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T16:26:41.662Z",
+              "EditorCaption": ""
             }
           ]
         }

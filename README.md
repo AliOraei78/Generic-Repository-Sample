@@ -23,4 +23,16 @@ In this stage, we implemented **separate repositories** for Employee and Product
 - Eliminates code repetition and enforces **type-safety** for all entities.
 - Ready for adding new entities without writing additional repository classes.
 
+### Step 4 – Covariance & Contravariance in Generic Repository
+
+- Separated **reading** and **writing** operations using two interfaces:  
+  - `IReadOnlyRepository<out T>` (Covariant) for reading entities  
+  - `IWriteRepository<in T>` (Contravariant) for adding entities
+- `GenericRepository<T, TKey>` implements both interfaces, storing entities in-memory.
+- **Type-safety ensured**:  
+  - Reading can use base types (Covariance)  
+  - Writing accepts only the specific entity type (Contravariance)
+- Demonstrated with `Employee` repository: adding and retrieving multiple employees using the same repository instance.
+
 Built with .NET 10 – December 2025
+

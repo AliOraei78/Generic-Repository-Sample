@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericRepositorySample.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acbc311a7f17f5cd6266f1324e43d8e98c09069d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d737fdf56557f7c956850dc7f280e61602fa126c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericRepositorySample.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericRepositorySample.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
